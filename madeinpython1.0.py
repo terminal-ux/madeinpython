@@ -750,12 +750,12 @@ class TextEditor:
         info_frame.pack(pady=(0, 20))
         
         developer_info = [
-            {"label": "Имя:", "value": "Александр Петров", "font": ("Ubuntu", 11, "bold")},
-            {"label": "Роль:", "value": "Full-stack разработчик", "font": ("Ubuntu", 10)},
-            {"label": "Email:", "value": "alex.petrov@example.com", "font": ("Ubuntu", 10)},
-            {"label": "GitHub:", "value": "github.com/alex-petrov", "font": ("Ubuntu", 10)},
-            {"label": "Telegram:", "value": "@alex_petrov_dev", "font": ("Ubuntu", 10)},
-            {"label": "Сайт:", "value": "petrov-dev.ru", "font": ("Ubuntu", 10)}
+            {"label": "Имя:", "value": "Артём Ядров", "font": ("Ubuntu", 11, "bold")},
+            {"label": "Discord:", "value": "toiletxyz", "font": ("Ubuntu", 10)},
+            {"label": "Email:", "value": "terminal.mail.xd@gmail.com", "font": ("Ubuntu", 10)},
+            {"label": "GitHub:", "value": "github.com/terminal-ux", "font": ("Ubuntu", 10)},
+            {"label": "Telegram:", "value": "@wekeqq", "font": ("Ubuntu", 10)},
+            {"label": "Репортните баг:", "value": "https://github.com/terminal-ux/madeinpython/issues", "font": ("Ubuntu", 10)}
         ]
         
         for info in developer_info:
