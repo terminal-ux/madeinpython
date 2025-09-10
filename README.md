@@ -15,5 +15,5 @@
 
 ![dance-cat](https://github.com/user-attachments/assets/b1bb62f4-becf-4c22-a96e-043013c1f2ec)
 
-> [TIP]
+> [!TIP]
 > Не удивляйтесь что программа такая сырая, она лишь в одном Python скрипте.
